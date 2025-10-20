@@ -1,5 +1,7 @@
 # ==========================
 # = main_tts_whisper.py 🎤 =
+# Edoardo
+# 20 Ottobre 2025
 # ==========================
 
 import os

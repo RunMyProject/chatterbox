@@ -1,3 +1,6 @@
+# conda activate chatterbox
+
+---
 
 <img width="1200" height="600" alt="Chatterbox-Multilingual" src="https://www.resemble.ai/wp-content/uploads/2025/09/Chatterbox-Multilingual-1.png" />
 
