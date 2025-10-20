@@ -86,7 +86,7 @@ for idx, line in enumerate(lines, start=1):
 # ===== CONCATENA =====
 full_wav = torch.cat(all_wavs, dim=1)
 ta.save(OUTPUT_WAV, full_wav, model.sr)
-ta.save(OUTPUT_MP3, full_wav, model.sr, format="mp3")
+ta.save(OUTPUT_MP3, full_wav, model.sr)
 
 # ===== CLEANUP =====
 shutil.rmtree(TMP_DIR)
